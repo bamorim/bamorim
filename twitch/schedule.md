@@ -6,6 +6,8 @@ A ideia das minhas streams é aprender alguma coisa nova enquanto tento explicar
 
 Portanto, eu vou falar majoritariamente de coisas que eu ainda não sei (por enquanto, talvez depois eu faça streams ensinando algo que eu já domine).
 
+As streams vão ser no meu [canal da Twitch](https://www.twitch.tv/bdornellas)
+
 ## Agenda
 
 | Dia | Horario | Titulo |
