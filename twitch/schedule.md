@@ -12,13 +12,13 @@ As streams vão ser no meu [canal da Twitch](https://www.twitch.tv/bdornellas)
 
 | Dia | Horario | Titulo |
 |-|-|-|
-| 2021-01-09 | 16:00 BRT | Aprendendo Go + Advent of Code 2019 - Dia 3 |
 | 2021-01-10 | 16:00 BRT | Aprendendo F# Full-Stack: SAFE Stack |
 
 ## Streams passadas
 
 | Dia | Horario | Titulo |
 |-|-|-|
+| 2021-01-09 | 16:00 BRT | [Aprendendo Go + Advent of Code 2019 - Dia 3](https://www.twitch.tv/videos/867413328) |
 | 2021-01-03 | 16:00 BRT | [Aprendendo Go + Advent of Code 2019 - Dias 1 e 2](https://www.twitch.tv/videos/860089869) |
 
 ## Links
