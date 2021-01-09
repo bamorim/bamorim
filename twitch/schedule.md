@@ -20,3 +20,8 @@ As streams vão ser no meu [canal da Twitch](https://www.twitch.tv/bdornellas)
 | Dia | Horario | Titulo |
 |-|-|-|
 | 2021-01-03 | 16:00 BRT | [Aprendendo Go + Advent of Code 2019 - Dias 1 e 2](https://www.twitch.tv/videos/860089869) |
+
+## Links
+
+ - https://github.com/golang/go/wiki/SliceTricks
+ - https://blog.golang.org/slices 
